@@ -21,7 +21,7 @@
                 Console.WriteLine("Oj. Lågt tal!");
             }
 
-            //the user enters their name which is saved in the varible name
+            //the user enters their name which is saved in the variable name
             Console.WriteLine("Vad heter du?");
             var name = Console.ReadLine();
 
